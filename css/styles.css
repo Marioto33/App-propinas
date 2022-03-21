@@ -111,6 +111,14 @@ body {
     justify-content: center;
 }
 
+.main h1 {
+    color: white;
+}
+
+.main p {
+    color: rgb(236, 236, 236);
+}
+
 @media only screen and (max-width: 800px) {
     /* column-2 pasará de tener 50% a 100% */
     .column-2 {
