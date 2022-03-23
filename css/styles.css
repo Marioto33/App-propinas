@@ -48,11 +48,6 @@ h6 {
 body {
     margin: 0;
     font-family: 'Quicksand', sans-serif;
-    height: 100vh;
-    background-color: rgb(15, 15, 15);
-    padding-left: 5%;
-    padding-right: 20%;
-    overflow: hidden;
 }
 
 
@@ -104,6 +99,13 @@ body {
 
 
 /* Otras clases */
+
+.main {
+    height: 100vh;
+    background-color: rgb(15, 15, 15);
+    padding-left: 5%;
+    padding-right: 20%;
+}
 
 
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
