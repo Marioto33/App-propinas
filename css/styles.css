@@ -100,11 +100,12 @@ body {
 
 /* Otras clases */
 
-.main {
+#main {
     height: 100vh;
     background-color: rgb(15, 15, 15);
     padding-left: 5%;
     padding-right: 20%;
+    overflow: hidden;
 }
 
 
@@ -116,11 +117,11 @@ body {
     justify-content: center;
 }
 
-.main h1 {
+#main h1 {
     color: white;
 }
 
-.main p {
+#main p {
     color: rgb(236, 236, 236);
 }
 
